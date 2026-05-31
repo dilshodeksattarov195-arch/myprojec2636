@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdalidate",
+        "uuid": 2071896,
+        "checksum": "fh9g6g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
